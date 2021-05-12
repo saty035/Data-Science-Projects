@@ -1,2 +1,2 @@
 # Data-Science-Projects
-My personal worked our Projects. Feel free to contribute ;)
+My personal worked out Projects. Feel free to contribute ;)
